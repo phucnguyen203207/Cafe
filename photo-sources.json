@@ -1,0 +1,114 @@
+[
+  {
+    "id": "b1",
+    "file": "/assets/menu/croissant.jpg",
+    "source": "https://unsplash.com",
+    "credit": "Unsplash",
+    "imageUrl": "https://images.unsplash.com/photo-1677740929724-1aa2dc110721?auto=format&fit=max&w=1000&h=1000&q=85&fm=jpg"
+  },
+  {
+    "id": "b2",
+    "file": "/assets/menu/tiramisu.jpg",
+    "source": "https://unsplash.com",
+    "credit": "Unsplash",
+    "imageUrl": "https://images.unsplash.com/photo-1605621234603-421e591840cd?auto=format&fit=max&w=1000&h=1000&q=85&fm=jpg"
+  },
+  {
+    "id": "b3",
+    "file": "/assets/menu/combo-sang.jpg",
+    "source": "https://unsplash.com",
+    "credit": "Unsplash",
+    "imageUrl": "https://images.unsplash.com/photo-1725545904327-4644b45f1a5f?auto=format&fit=max&w=1000&h=1000&q=85&fm=jpg"
+  },
+  {
+    "id": "c1",
+    "file": "/assets/menu/ca-phe-sua-da.jpg",
+    "source": "https://unsplash.com/photos/a-glass-with-a-drink-in-it-3-q8ZgB24X8",
+    "credit": "Tu Ngoc Minh / Unsplash",
+    "imageUrl": "https://images.unsplash.com/photo-1664515725552-d47d97e7da3a?auto=format&fit=max&w=1000&h=1000&q=85&fm=jpg"
+  },
+  {
+    "id": "c2",
+    "file": "/assets/menu/bac-xiu.jpg",
+    "source": "https://unsplash.com/photos/clear-drinking-glass-on-beige-surface-guAVAk433hU",
+    "credit": "Dakyo oh / Unsplash",
+    "imageUrl": "https://images.unsplash.com/photo-1563269115-2a54e5697482?auto=format&fit=max&w=1000&h=1000&q=85&fm=jpg"
+  },
+  {
+    "id": "c3",
+    "file": "/assets/menu/americano.jpg",
+    "source": "https://unsplash.com/photos/white-coffee-cup-on-brown-wooden-table-JNhaaPEz3FY",
+    "credit": "Gerson Cifuentes / Unsplash",
+    "imageUrl": "https://images.unsplash.com/photo-1551030173-122aabc4489c?auto=format&fit=max&w=1000&h=1000&q=85&fm=jpg"
+  },
+  {
+    "id": "c4",
+    "file": "/assets/menu/latte.jpg",
+    "source": "https://unsplash.com",
+    "credit": "Unsplash",
+    "imageUrl": "https://images.unsplash.com/photo-1717639062936-06fbc2bf3f96?auto=format&fit=max&w=1000&h=1000&q=85&fm=jpg"
+  },
+  {
+    "id": "c5",
+    "file": "/assets/menu/ca-phe-muoi.jpg",
+    "source": "https://www.beemart.vn/ca-phe-muoi-dac-san-hue-de-dang-ngay-tai-nha",
+    "credit": "Beemart",
+    "imageUrl": "https://bizweb.dktcdn.net/100/004/714/files/ca-phe-muoi.png?v=1686127752550"
+  },
+  {
+    "id": "c6",
+    "file": "/assets/menu/cold-brew-cam.jpg",
+    "source": "https://pullandpourcoffee.com",
+    "credit": "Pull & Pour Coffee",
+    "imageUrl": "https://pullandpourcoffee.com/wp-content/uploads/2019/07/orange-infused-cold-brew-final-orange.jpg"
+  },
+  {
+    "id": "j1",
+    "file": "/assets/menu/chocolate-da-xay.jpg",
+    "source": "https://unsplash.com",
+    "credit": "Unsplash",
+    "imageUrl": "https://images.unsplash.com/photo-1750818287648-df4cb95966d5?auto=format&fit=max&w=1000&h=1000&q=85&fm=jpg"
+  },
+  {
+    "id": "j2",
+    "file": "/assets/menu/nuoc-cam.jpg",
+    "source": "https://unsplash.com",
+    "credit": "Unsplash",
+    "imageUrl": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?auto=format&fit=max&w=1000&h=1000&q=85&fm=jpg"
+  },
+  {
+    "id": "m1",
+    "file": "/assets/menu/matcha-latte.jpg",
+    "source": "https://unsplash.com/photos/gQ0lcnq8FAI",
+    "credit": "Karolin Baitinger / Unsplash",
+    "imageUrl": "https://images.unsplash.com/photo-1631679263320-004b9241ae5e?auto=format&fit=max&w=1000&h=1000&q=85&fm=jpg"
+  },
+  {
+    "id": "m2",
+    "file": "/assets/menu/tra-sua-o-long.jpg",
+    "source": "https://unsplash.com/photos/a-cup-of-jelly-drink-with-two-straws-_yPZKug8z_I",
+    "credit": "Tuan Nguyen / Unsplash",
+    "imageUrl": "https://images.unsplash.com/photo-1692783029695-1956cd253e10?auto=format&fit=max&w=1000&h=1000&q=85&fm=jpg"
+  },
+  {
+    "id": "t1",
+    "file": "/assets/menu/tra-dao-cam-sa.jpg",
+    "source": "https://phothinviet.vn/tra-dao-cam-sa",
+    "credit": "Phở Thìn Việt",
+    "imageUrl": "https://bizweb.dktcdn.net/thumb/large/100/479/802/products/hinh-anh-tra-dao-cam-sa.jpg?v=1707282082987"
+  },
+  {
+    "id": "t2",
+    "file": "/assets/menu/tra-vai-hoa-nhai.jpg",
+    "source": "https://kimochisushi.vn/tra-vai-lai-ngot-thanh-thom-mat",
+    "credit": "Kimochi Sushi & Sashimi",
+    "imageUrl": "https://bizweb.dktcdn.net/100/430/970/products/z6737320114918-5e49fb91e9f9417d6d6032e14d757e90.jpg?v=1750753375680"
+  },
+  {
+    "id": "t3",
+    "file": "/assets/menu/tra-sen-vang.jpg",
+    "source": "https://savotea.com/blogs/cong-thuc-pha-che/cach-lam-tra-sen-vang",
+    "credit": "Savo Tea",
+    "imageUrl": "https://file.hstatic.net/200000857649/file/tra-sen-vang_1528b67fbc1446199f990eb90c389d23_grande.png"
+  }
+]
